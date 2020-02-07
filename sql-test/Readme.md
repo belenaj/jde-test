@@ -7,7 +7,7 @@ In this exercise you will need to deploy a sample database (Chinook) and work on
  - Option 1 - Install postgres SQL and deploy the Chinook_PostgreSql.sql file to have the Chinook database created.
  - Option 2 - Run the docker file in the repository:
 ```
-cd sql-chinook-test
+cd sql-test
 docker build . -t mypostgres
 docker run --name mypostgres -e POSTGRES_PASSWORD=postgres -d -p 5432:5432  mypostgres:latest
 user/database/password: postgres
