@@ -61,8 +61,8 @@ Given a collection of Integer numbers (Integer numbers greater or equal to 0 and
 We like clean, clear and readable code. Also we like that the code we execute is efficient.
 
 When work is completed it's necessary to send 3 text files:
-- File 1: A file which contains source code for exercise 1. Name of this file must be: exercise-1.txt
-- File 2: A file which contains source code for exercise 2. Name of this file must be: exercise-2.txt
+- File 1: A file which contains source code for exercise 1. Name of this file must be: exercise-1.txt or exercise-1.zip (if you have created multiple files)
+- File 2: A file which contains source code for exercise 2. Name of this file must be: exercise-2.txt or exercise-2.zip (if you have created multiple files)
 - File 3: A file which contains notes/explanations. Name of this file must be: notes.txt. This file can be done using markdown, but name must be the defined before. At least must be:
     - How to compile your source code.
     - Answers of questions presents in different exercesises.
